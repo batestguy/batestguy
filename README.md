@@ -25,8 +25,8 @@ Statistician and data scientist in Bauchi, Nigeria. I build uncertainty-aware mo
 
 #### Education and honours
 
-- 🥇 **MSc Statistics, ATBU (2024):** **1st in class**, GPA 4.40/5.00
-- 🥈 **BSc Statistics, University of Maiduguri (2013):** **2nd in class**, GPA 4.20/5.00
+- 🥇 **MSc Statistics, ATBU (2024):** **Best in class** (top 1%)
+- 🥈 **BSc Statistics, University of Maiduguri (2013):** **2nd best in class** (top 2%)
 - 🎓 **MTN Foundation Scholarship (2009–2012)**, plus a place on the **Dean's List** every year from 2009 to 2012
 - 📜 **Commendation letter** from ATBU's Directorate of Academic Planning (2021)
 
