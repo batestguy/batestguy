@@ -23,6 +23,13 @@ Statistician and data scientist in Bauchi, Nigeria. I build uncertainty-aware mo
 | Messi vs Ronaldo, weighted | Difficulty-weighted scoring rates (FAMD weighting) with a 10,000-resample match bootstrap; intervals and effect sizes instead of significance labels. | R, Shiny, bslib, Docker | [repo](https://github.com/batestguy/messi-vs-ronaldo-r) · [dashboard](https://qqxot9-batest-hommie.shinyapps.io/messi-vs-ronaldo-r/) |
 | Sol Searching | 50 verified Kaduna businesses from a one-time OpenStreetMap import turned into a ranked solar sales pipeline with payback and risk–reward. | Python, Streamlit, OpenStreetMap | [repo](https://github.com/batestguy/kaduna-solar-lead-gen) · [demo](https://kaduna-solar-lead-ge-y3wljh2pqvkadljhlytgkg.streamlit.app) |
 
+#### Education and honours
+
+- 🥇 **MSc Statistics, ATBU (2024):** **1st in class**, GPA 4.40/5.00
+- 🥈 **BSc Statistics, University of Maiduguri (2013):** **2nd in class**, GPA 4.20/5.00
+- 🎓 **MTN Foundation Scholarship (2009–2012)**, plus a place on the **Dean's List** every year from 2009 to 2012
+- 📜 **Commendation letter** from ATBU's Directorate of Academic Planning (2021)
+
 #### More work
 
 **Apps and tools**
