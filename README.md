@@ -25,9 +25,10 @@ Statistician and data scientist in Bauchi, Nigeria. I build uncertainty-aware mo
 
 #### Education and honours
 
+- 🎓 **PhD Statistics, ATBU (2026–present):** in progress; hybrid Bayesian deep learning for spatio-temporal risk forecasting
 - 🥇 **MSc Statistics, ATBU (2024):** **Best in class** (top 1%)
 - 🥈 **BSc Statistics, University of Maiduguri (2013):** **2nd best in class** (top 2%)
-- 🎓 **MTN Foundation Scholarship (2009–2012)**, plus a place on the **Dean's List** every year from 2009 to 2012
+- 🏅 **MTN Foundation Scholarship (2009–2012)**, plus a place on the **Dean's List** every year from 2009 to 2012
 - 📜 **Commendation letter** from ATBU's Directorate of Academic Planning (2021)
 
 #### More apps and tools
@@ -38,7 +39,7 @@ Statistician and data scientist in Bauchi, Nigeria. I build uncertainty-aware mo
 
 #### Research
 
-7 peer-reviewed papers in health and applied statistics, 5 citations. PhD in Statistics in progress at Abubakar Tafawa Balewa University (ATBU).
+7 peer-reviewed papers in health and applied statistics, 5 citations.
 
 [Google Scholar](https://scholar.google.com/citations?user=oKaejtMAAAAJ) · [ORCID 0009-0002-3302-9558](https://orcid.org/0009-0002-3302-9558)
 
