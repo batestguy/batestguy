@@ -2,6 +2,9 @@
 
 Statistician and data scientist in Bauchi, Nigeria. I build uncertainty-aware models and open tools for health, poverty and inclusion data.
 
+
+I have over ten years of experience in institutional statistics at Abubakar Tafawa Balewa University (ATBU), where I am now a Senior Statistician, supporting National Universities Commission (NUC) reporting, accreditation and Senate decisions.
+
 #### What I do
 
 - **Bayesian and machine-learning models**, always reported against an honest baseline and with their uncertainty shown.
