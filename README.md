@@ -17,7 +17,7 @@ I have over ten years of experience in institutional statistics at Abubakar Tafa
 
 | Project | Result | Stack | Links |
 |---|---|---|---|
-| Price intelligence pipeline<br>📍 **Nigeria** | XGBoost demand forecast at 10.9% MAPE vs a 13.8% naive baseline; fine-tuned FinBERT at 76.8% vs 71.0% majority class; LP optimiser for price and stock moves. Synthetic sales data, documented as such. | Python, XGBoost, FinBERT, SciPy, Supabase, GitHub Actions | [repo](https://github.com/batestguy/tobacco-price-intelligence) · [dashboard](https://tobacco-price-intelligence.streamlit.app) |
+| Price intelligence pipeline<br>�� **Nigeria** | XGBoost demand forecast at 10.9% MAPE vs a 13.8% naive baseline; fine-tuned FinBERT at 76.8% vs 71.0% majority class; LP optimiser for price and stock moves. Synthetic sales data, documented as such. | Python, XGBoost, FinBERT, SciPy, Supabase, GitHub Actions | [repo](https://github.com/batestguy/tobacco-price-intelligence) · [dashboard](https://tobacco-price-intelligence.streamlit.app) |
 | Crude Blend Optimizer<br>📍 **Nigeria** | ML yield surrogates (5-fold R² ≥ 0.982) drive differential evolution to within $0.005/bbl of the exact LP optimum; VaR/CVaR over 10,000 price scenarios; 140 offline tests. | Python, scikit-learn, SciPy, Docker | [repo](https://github.com/batestguy/dangote-refinery-optimizer) · [site](https://batestguy.github.io/dangote-refinery-optimizer/) |
 | Bayesian World Cup | Hierarchical model of 22 World Cups with partial pooling; 50,000-run Monte Carlo tournament, counterfactual `do()` scenarios, served from precomputed posteriors. | Python, PyMC, Gradio | [repo](https://github.com/batestguy/soccer-eurovsSA) · [app](https://bayesian-world-cup-prediction.onrender.com) |
 | Disability Rights Assistant<br>📍 **Nigeria** | Multi-turn RAG over Nigeria's Disability Act 2018 and the Constitution, with a verified NGO and helpline connector. Built accessible from the start. | Python, RAG, Streamlit | [repo](https://github.com/batestguy/NGOdisabilityRAG) · [demo](https://ngodisabilityrag.onrender.com) |
@@ -29,11 +29,11 @@ I have over ten years of experience in institutional statistics at Abubakar Tafa
 
 #### Education and honours
 
-- 🎓 **PhD Statistics, ATBU (2026–present):** in progress; hybrid Bayesian deep learning for spatio-temporal risk forecasting
+- ��� **PhD Statistics, ATBU (2026–present):** in progress; hybrid Bayesian deep learning for spatio-temporal risk forecasting
 - 🥇 **MSc Statistics, ATBU (2024):** **Best in class** (top 1%)
 - 🥈 **BSc Statistics, University of Maiduguri (2013):** **2nd best in class** (top 2%)
 - 🏅 **MTN Foundation Scholarship (2009–2012)**, plus a place on the **Dean's List** every year from 2009 to 2012
-- 📜 **Commendation letter** from ATBU's Directorate of Academic Planning (2021)
+- ��� **Commendation letter** from ATBU's Directorate of Academic Planning (2021)
 
 #### More apps and tools
 
@@ -51,7 +51,7 @@ I have over ten years of experience in institutional statistics at Abubakar Tafa
 - [Avian influenza in Nigeria, systematic review](https://github.com/batestguy/avian-influenza-nigeria-systematic-review): PRISMA 2020 screening of 2,157 records from six databases down to 113 included studies.
 - [Anti-trypanosomal plant extracts](https://github.com/batestguy/comparative-anti-trypanosomal-activity-azadirachta-indica-moringa-oleifera): parses a messy Excel workbook into tidy data and runs block-level non-parametric tests with Holm adjustment through to a Word report. R and Quarto.
 - [Non-O157 *E. coli* in fermented milk](https://github.com/batestguy/nono-analysis): prevalence with 95% CIs, ANOVA and antibiotic-susceptibility profiles for 200 isolates.
-- [Urban agriculture and food security](https://github.com/batestguy/urban-agriculture-and-urban-food-security-in-nigeria): spatial statistics on API-sourced data, frozen to CSV for reproducibility.
+- [Urban agriculture and food security](https://github.com/batestguy/urban-agriculture-nigeria-spatial): where cultivated land concentrates across 775 Nigerian LGAs, with an explicit correction for uneven OpenStreetMap coverage — Moran's I = 0.300, the area effect surviving the coverage control (ΔAIC = 20). Spatial statistics on API-sourced data, frozen to CSV, 175 automated claim checks.
 
 #### Toolbox
 
