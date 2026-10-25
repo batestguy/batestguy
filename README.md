@@ -17,10 +17,10 @@ I have over ten years of experience in institutional statistics at Abubakar Tafa
 
 | Project | Result | Stack | Links |
 |---|---|---|---|
-| Price intelligence pipeline<br>�� **Nigeria** | XGBoost demand forecast at 10.9% MAPE vs a 13.8% naive baseline; fine-tuned FinBERT at 76.8% vs 71.0% majority class; LP optimiser for price and stock moves. Synthetic sales data, documented as such. | Python, XGBoost, FinBERT, SciPy, Supabase, GitHub Actions | [repo](https://github.com/batestguy/tobacco-price-intelligence) · [dashboard](https://tobacco-price-intelligence.streamlit.app) |
+| Price intelligence pipeline<br>📍 **Nigeria** | XGBoost demand forecast at 10.9% MAPE vs a 13.8% naive baseline; fine-tuned FinBERT at 76.8% vs 71.0% majority class; LP optimiser for price and stock moves. Synthetic sales data, documented as such. | Python, XGBoost, FinBERT, SciPy, Supabase, GitHub Actions | [repo](https://github.com/batestguy/tobacco-price-intelligence) · [dashboard](https://tobacco-price-intelligence.streamlit.app) |
 | Crude Blend Optimizer<br>📍 **Nigeria** | ML yield surrogates (5-fold R² ≥ 0.982) drive differential evolution to within $0.005/bbl of the exact LP optimum; VaR/CVaR over 10,000 price scenarios; 140 offline tests. | Python, scikit-learn, SciPy, Docker | [repo](https://github.com/batestguy/dangote-refinery-optimizer) · [site](https://batestguy.github.io/dangote-refinery-optimizer/) |
 | Bayesian World Cup | Hierarchical model of 22 World Cups with partial pooling; 50,000-run Monte Carlo tournament, counterfactual `do()` scenarios, served from precomputed posteriors. | Python, PyMC, Gradio | [repo](https://github.com/batestguy/soccer-eurovsSA) · [app](https://bayesian-world-cup-prediction.onrender.com) |
-| Disability Rights Assistant<br>📍 **Nigeria** | Multi-turn RAG over Nigeria's Disability Act 2018 and the Constitution, with a verified NGO and helpline connector. Built accessible from the start. | Python, RAG, Streamlit | [repo](https://github.com/batestguy/NGOdisabilityRAG) · [demo](https://ngodisabilityrag.onrender.com) |
+| Disability Rights Assistant (DRLCA)<br>📍 **Nigeria** | Multi-turn chatbot over Nigeria's Disability Act 2018, the 1999 Constitution and a 2020 factsheet. It quotes the law word for word with a citation on every excerpt, puts the DRAC toll-free helpline first and lists 20 browser-verified disability organisations. It works offline by default; an opt-in plain-language AI answer is checked against the excerpts it cites. Measured honestly: held-out strict recall 0.63–0.65 on two blind sets, 0 false refusals, refusal calibration 0 / 212. WCAG 2.2 AA with 0 axe issues across 33 views. English, Hausa, Igbo and Yorùbá interface. It states that no lawyer has reviewed it yet. Zero cost. | Python, TF-IDF retrieval, Streamlit, Gemini (opt-in), Playwright + axe, GitHub Actions | [repo](https://github.com/batestguy/NGOdisabilityRAG) · [app](https://ngodisabilityrag.onrender.com) · [demo video](https://github.com/batestguy/NGOdisabilityRAG/blob/main/docs/media/demo.mp4) |
 | Impact Mosaic (Ayuba Gufwan disability programme)<br>📍 **Nigeria** | Independent, source-linked showcase of the programme plus a learning sandbox: 8 courses and 48 lessons, experimental Hausa, Yoruba and Igbo journeys, administrator learner maps by state and LGA, scorecards and grant-planning reports. Zero axe accessibility violations on the audited scorecard views. | React, TypeScript, Vite, Cloudflare Pages Functions, Playwright | [repo](https://github.com/batestguy/AyubaDisabilityProg) |
 | Fieldmargin (crop value predictor)<br>📍 **Nigeria** | Offline-first planner that lets Nigerian farmers compare crop margins under their own land, yield, price and cost assumptions, with custom crops and bag equivalents; installs on a phone and keeps working offline. | React, TypeScript, Cloudflare Pages | [repo](https://github.com/batestguy/crop-value-predictor) · [app](https://crop-value-predictor.pages.dev/) |
 | Nigeria Equity Atlas<br>📍 **Nigeria** | State-level Multidimensional Poverty Index for all 36 states and the FCT, with conflict and climate overlays and a four-round trend, from a numbered, re-runnable pipeline. | Python, Tableau | [repo](https://github.com/batestguy/NigeriaEquityAtlas-Tableau) |
@@ -30,11 +30,11 @@ I have over ten years of experience in institutional statistics at Abubakar Tafa
 
 #### Education and honours
 
-- ��� **PhD Statistics, ATBU (2026–present):** in progress; hybrid Bayesian deep learning for spatio-temporal risk forecasting
+- 🎓 **PhD Statistics, ATBU (2026–present):** in progress; hybrid Bayesian deep learning for spatio-temporal risk forecasting
 - 🥇 **MSc Statistics, ATBU (2024):** **Best in class** (top 1%)
 - 🥈 **BSc Statistics, University of Maiduguri (2013):** **2nd best in class** (top 2%)
 - 🏅 **MTN Foundation Scholarship (2009–2012)**, plus a place on the **Dean's List** every year from 2009 to 2012
-- ��� **Commendation letter** from ATBU's Directorate of Academic Planning (2021)
+- 📜 **Commendation letter** from ATBU's Directorate of Academic Planning (2021)
 
 #### More apps and tools
 
