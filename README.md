@@ -8,6 +8,7 @@ I have over ten years of experience in institutional statistics at Abubakar Tafa
 #### What I do
 
 - **Bayesian and machine-learning models**, always reported against an honest baseline and with their uncertainty shown.
+- **AI and LLM applications (RAG)**: retrieval measured on held-out question sets, answers that cite their sources and are checked automatically, and an AI judge used alongside human-checked ground truth. Example: [DRLCA](https://github.com/batestguy/NGOdisabilityRAG).
 - **End-to-end pipelines** on free cloud infrastructure: scheduled ingestion, provenance manifests, tests and CI.
 - **Accessible apps**: screen-reader-safe layouts, keyboard navigation, voice input and high contrast.
 - **Reproducible research**: raw data to manuscript-ready tables and figures in code, with R, Python and Quarto.
