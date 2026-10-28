@@ -36,6 +36,7 @@ I have over ten years of experience in institutional statistics at Abubakar Tafa
 - 🥈 **BSc Statistics, University of Maiduguri (2013):** **2nd best in class** (top 2%)
 - 🏅 **MTN Foundation Scholarship (2009–2012)**, plus a place on the **Dean's List** every year from 2009 to 2012
 - 📜 **Commendation letter** from ATBU's Directorate of Academic Planning (2021)
+- 🏛️ **CISON / NANS** — **Registered Statistician**, member ID 20260732, joined September 2026. All three fees paid; status and membership verified on the portal (certificate arrives later).
 
 #### More apps and tools
 
@@ -46,7 +47,7 @@ I have over ten years of experience in institutional statistics at Abubakar Tafa
 
 7 peer-reviewed papers in health and applied statistics, 5 citations.
 
-[Google Scholar](https://scholar.google.com/citations?user=oKaejtMAAAAJ) · [ORCID 0009-0002-3302-9558](https://orcid.org/0009-0002-3302-9558)
+[Google Scholar](https://scholar.google.com/citations?user=oKaejtMAAAAJ) · [ORCID](https://orcid.org/0009-0002-3302-9558)
 
 **Research pipelines**, each reproducible from raw data to manuscript tables and figures:
 - [Bayesian change-points in Nigerian rainfall](https://github.com/batestguy/Bayesian-Change-Point-Detection-in-Nigerian-Rainfall-Patterns-A-Hierarchical-Analysis-Climate-Zones): a hierarchical model of 74 years of rainfall at 9 stations in 3 climate zones; LOO cross-validation rejects the no-change model in every zone. Python and PyMC; manuscript in preparation.
