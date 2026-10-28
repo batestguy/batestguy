@@ -36,7 +36,7 @@ I have over ten years of experience in institutional statistics at Abubakar Tafa
 - 🥈 **BSc Statistics, University of Maiduguri (2013):** **2nd best in class** (top 2%)
 - 🏅 **MTN Foundation Scholarship (2009–2012)**, plus a place on the **Dean's List** every year from 2009 to 2012
 - 📜 **Commendation letter** from ATBU's Directorate of Academic Planning (2021)
-- 🏛️ **CISON / NANS** — **Registered Statistician**, member ID 20260732, joined September 2026. All three fees paid; status and membership verified on the portal (certificate arrives later).
+- 🏛️ **CISON / NANS** — **Registered Statistician**, member ID 20260732, joined September 2026. All three fees paid; status and membership verified on the portal.
 
 #### More apps and tools
 
