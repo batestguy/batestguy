@@ -55,7 +55,7 @@ Abroad? [Give in US dollars](https://flutterwave.com/donate/77wk0v3f3gej).
 
 7 peer-reviewed papers in health and applied statistics, 5 citations.
 
-[Google Scholar](https://scholar.google.com/citations?user=oKaejtMAAAAJ) · [ORCID](https://orcid.org/0009-0002-3302-9558)
+[Google Scholar](https://scholar.google.com/citations?user=oKaejtMAAAAJ) · [ORCID](https://orcid.org/0009-0002-3302-9558) · [Zenodo](https://zenodo.org/search?q=%28creators.orcid%3A%220009-0002-3302-9558%22%20OR%20creators.name%3A%22Zachary%2C%20Jerry%20Bannister%22%20OR%20%22Jerry%20Bannister%20Zachary%22%29)
 
 **Research pipelines**, each reproducible from raw data to manuscript tables and figures:
 - [Bayesian change-points in Nigerian rainfall](https://github.com/batestguy/Bayesian-Change-Point-Detection-in-Nigerian-Rainfall-Patterns-A-Hierarchical-Analysis-Climate-Zones): a hierarchical model of 74 years of rainfall at 9 stations in 3 climate zones; LOO cross-validation rejects the no-change model in every zone. Python and PyMC; manuscript in preparation.
