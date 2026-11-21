@@ -7,11 +7,11 @@ I have over ten years of experience in institutional statistics at Abubakar Tafa
 
 #### Support my work
 
-I build free, open data tools for Nigeria. If they helped you, help me keep going.
+Every tool here is free, and I build them in my own time. Your gift pays for the time, the data and the hosting behind the next one, so Nigeria gets more of them.
 
-[![Retire me safely / Donate via Flutterwave](https://img.shields.io/badge/%E2%99%A5_Retire_me_safely_%2F_Donate-via_Flutterwave-0a7d8c?style=for-the-badge&labelColor=24292f)](https://flutterwave.com/donate/gmyzcbwwzafs)
+[![Fund the next tool: donate via Flutterwave](https://img.shields.io/badge/%E2%99%A5_Fund_the_next_tool-via_Flutterwave-0a7d8c?style=for-the-badge&labelColor=24292f)](https://flutterwave.com/donate/gmyzcbwwzafs)
 
-Abroad? [Give in US dollars](https://flutterwave.com/donate/77wk0v3f3gej).
+You can choose your currency on the donation page, including US dollars.
 
 #### What I do
 
