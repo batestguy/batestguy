@@ -11,8 +11,6 @@ Every tool here is free, and I build them in my own time. Your gift pays for the
 
 [![Fund the next tool: donate via Flutterwave](https://img.shields.io/badge/%E2%99%A5_Fund_the_next_tool-via_Flutterwave-0a7d8c?style=for-the-badge&labelColor=24292f)](https://flutterwave.com/donate/gmyzcbwwzafs)
 
-You can choose your currency on the donation page, including US dollars.
-
 #### What I do
 
 - **Bayesian and machine-learning models**, always reported against an honest baseline and with their uncertainty shown.
