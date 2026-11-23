@@ -5,12 +5,6 @@ Statistician and data scientist in Bauchi, Nigeria. I build uncertainty-aware mo
 
 I have over ten years of experience in institutional statistics at Abubakar Tafawa Balewa University (ATBU), where I am now a Senior Statistician, supporting National Universities Commission (NUC) reporting, accreditation and Senate decisions.
 
-#### Support my work
-
-Every tool here is free, and I build them in my own time. Your gift pays for the time, the data and the hosting behind the next one, so Nigeria gets more of them.
-
-[![Fund the next tool: donate via Flutterwave](https://img.shields.io/badge/%E2%99%A5_Fund_the_next_tool-via_Flutterwave-0a7d8c?style=for-the-badge&labelColor=24292f)](https://flutterwave.com/donate/gmyzcbwwzafs)
-
 #### What I do
 
 - **Bayesian and machine-learning models**, always reported against an honest baseline and with their uncertainty shown.
@@ -81,3 +75,9 @@ Every tool here is free, and I build them in my own time. Your gift pays for the
 #### Contact
 
 [batesthommie@gmail.com](mailto:batesthommie@gmail.com) · [Blog](https://batestguy.github.io/QuartoWebsite-blog-others/)
+
+#### Support my work
+
+Every tool here is free, and I build them in my own time. Your gift pays for the time, the data and the hosting behind the next one, so Nigeria gets more of them.
+
+[![Fund the next tool: donate via Flutterwave](https://img.shields.io/badge/%E2%99%A5_Fund_the_next_tool-via_Flutterwave-0a7d8c?style=for-the-badge&labelColor=24292f)](https://flutterwave.com/donate/gmyzcbwwzafs)
